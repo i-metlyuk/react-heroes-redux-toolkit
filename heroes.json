@@ -17,6 +17,18 @@
       "name": "Пугачева",
       "description": "Пугачева",
       "element": "water"
+    },
+    {
+      "id": "90744bd5-a40e-431a-805d-624eb1019556",
+      "name": "asd",
+      "description": "asd",
+      "element": "wind"
+    },
+    {
+      "id": "39637d03-af51-40fe-bfe7-2c43a3162f45",
+      "name": "h35h",
+      "description": "45h",
+      "element": "earth"
     }
   ],
   "filters": [
