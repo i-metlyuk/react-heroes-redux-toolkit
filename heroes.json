@@ -1,0 +1,54 @@
+{
+  "heroes": [
+    {
+      "id": "bf7d2bf1-8282-4373-bba9-5cf21a9417b6",
+      "name": "Valera",
+      "description": "Valera",
+      "element": "fire"
+    },
+    {
+      "id": "cb58635e-13dd-48ae-a164-58e5a3b3c10e",
+      "name": "Киркоров",
+      "description": "Киркоров",
+      "element": "fire"
+    },
+    {
+      "id": "5dc13ef4-b5a9-4c4e-8f92-bc01765bcd50",
+      "name": "Пугачева",
+      "description": "Пугачева",
+      "element": "water"
+    }
+  ],
+  "filters": [
+    {
+      "id": "1",
+      "name": "all",
+      "text": "Все",
+      "styles": "btn btn-dark"
+    },
+    {
+      "id": "2",
+      "name": "fire",
+      "text": "Огонь",
+      "styles": "btn btn-danger"
+    },
+    {
+      "id": "3",
+      "name": "water",
+      "text": "Вода",
+      "styles": "btn btn-primary"
+    },
+    {
+      "id": "4",
+      "name": "wind",
+      "text": "Ветер",
+      "styles": "btn btn-success"
+    },
+    {
+      "id": "5",
+      "name": "earth",
+      "text": "Земля",
+      "styles": "btn btn-secondary"
+    }
+  ]
+}
